@@ -1,0 +1,33 @@
+,get_sentiment,lower_upper_ratio,awl,unique_words_per_total_words,punctuation_frequency,n_grams,pos_tagger,k,mean rank,mean cosine similarity,accuracy
+0,False,False,False,False,False,"[3, 4]",False,2250,1.4375,0.49423874132760715,0.75
+1,False,False,False,True,True,[5],False,2250,1.5,0.46416640119361235,0.6875
+2,False,False,False,False,True,[5],False,2250,1.5,0.46361250985202557,0.6875
+3,False,False,False,True,False,[5],False,2250,1.5,0.462818269334749,0.6875
+4,False,False,False,False,False,[5],False,2250,1.5,0.46226069163164274,0.6875
+5,False,False,False,False,True,"[3, 4]",False,2250,1.5,0.495147765331303,0.75
+6,False,False,True,True,True,"[2, 3, 4]",False,2750,1.5,0.49478590541327744,0.75
+7,False,False,True,False,True,"[2, 3, 4]",False,2750,1.5,0.4944202181291407,0.75
+8,False,False,True,True,False,"[2, 3, 4]",False,2750,1.5,0.49406083931198497,0.75
+9,False,False,True,False,False,"[2, 3, 4]",False,2750,1.5,0.4936860053933303,0.75
+10,False,False,True,True,True,[5],False,2500,1.5625,0.4511232285821984,0.625
+11,False,False,True,False,True,[5],False,2500,1.5625,0.45057766457972226,0.625
+12,False,False,True,True,False,[5],False,2500,1.5625,0.4497079753500408,0.625
+13,False,False,False,False,True,[5],False,2500,1.5625,0.44920742027901384,0.625
+14,False,False,True,False,False,[5],False,2500,1.5625,0.44913567236971946,0.625
+15,False,False,False,False,False,[5],False,2500,1.5625,0.44779254639773,0.625
+16,False,False,True,True,True,[5],False,2750,1.6875,0.43871900019175236,0.625
+17,False,False,True,False,True,[5],False,2750,1.6875,0.4381813711407387,0.625
+18,False,False,False,True,True,[5],False,2750,1.6875,0.43734525135060415,0.625
+19,False,False,True,True,False,[5],False,2750,1.6875,0.43726521823129705,0.625
+20,False,False,False,False,True,[5],False,2750,1.6875,0.4367851472265091,0.625
+21,False,False,True,False,False,[5],False,2750,1.6875,0.436721473238733,0.625
+22,False,False,False,True,False,[5],False,2750,1.6875,0.43587402887698473,0.625
+23,False,False,False,False,False,[5],False,2750,1.6875,0.43532675910771446,0.625
+24,False,False,False,True,True,[5],False,3000,1.6875,0.4249801850764309,0.6875
+25,False,False,True,True,False,[5],False,3000,1.6875,0.42489406157710763,0.6875
+26,False,False,False,False,True,[5],False,3000,1.6875,0.4244515660025654,0.6875
+27,False,False,True,False,False,[5],False,3000,1.6875,0.42435981892789537,0.6875
+28,False,False,False,True,False,[5],False,3000,1.6875,0.4234976751459459,0.6875
+29,False,False,False,False,False,[5],False,3000,1.6875,0.42291018983145023,0.6875
+30,False,False,True,True,True,[5],False,3000,1.75,0.4263779245544589,0.625
+31,False,False,True,False,True,[5],False,3000,1.75,0.42585045316440884,0.625

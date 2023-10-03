@@ -1,0 +1,16 @@
+,get_sentiment,lower_upper_ratio,awl,unique_words_per_total_words,punctuation_frequency,n_grams,pos_tagger,k,mean rank,mean cosine similarity,accuracy
+0,False,False,False,False,False,"[2, 3]",False,2500,1.4375,0.48369498817333034,0.6875
+1,False,False,False,False,False,"[2, 3]",False,2750,1.4375,0.4706503268982163,0.6875
+2,False,False,False,False,False,"[2, 3]",False,3000,1.4375,0.4592467517051953,0.6875
+3,False,False,False,False,False,"[2, 3]",False,2000,1.5,0.51365775268999,0.6875
+4,False,False,False,False,False,"[2, 3, 4, 5]",False,2750,1.5,0.5064771811723002,0.6875
+5,False,False,False,False,False,"[2, 3, 4, 5]",False,3000,1.5,0.49646397919931723,0.6875
+6,False,False,False,False,False,"[2, 3, 4]",False,2750,1.5,0.49294292962138797,0.75
+7,False,False,False,False,False,"[2, 3, 4]",False,2250,1.5625,0.5172160755634019,0.625
+8,False,False,False,False,False,"[2, 3, 4]",False,2500,1.5625,0.5036674391896097,0.6875
+9,False,False,False,False,False,"[2, 3]",False,2250,1.5625,0.49997858143904006,0.6875
+10,False,False,False,False,False,"[2, 3, 4]",False,2000,1.625,0.5341743469031819,0.625
+11,False,False,False,False,False,"[2, 3, 4]",False,3000,1.625,0.4826271331510097,0.625
+12,False,False,False,False,False,"[2, 3, 4, 5]",False,2500,1.625,0.5197558583564759,0.6875
+13,False,False,False,False,False,"[2, 3, 4, 5]",False,2000,1.6875,0.5480988489588032,0.5625
+14,False,False,False,False,False,"[2, 3, 4, 5]",False,2250,1.875,0.5353823640196169,0.625
